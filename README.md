@@ -1,0 +1,3 @@
+# Single-Player-Poker
+Using OOP (Object-Oriented Programming) Concepts in C++, I have created this single-player Poker game that enables users to have a variety of hands over the course and have a balance to place bets. This lab compiles a single player Poker game with a Base Class and Class Methods. The user starts with 100 chips ($1.00 each) and is given a randomized hand of four cards from a deck of 36 cards. Winning possibilities include 4ofAKind, Straight Flush, Flush, Straight, 3ofAKind, Two Pair, Pair, and Bubkiss. This
+can be played as long as the user wishes to play and has enough chips. A Final report will be generated with amount of wins, losses, hands, and net winnings.
